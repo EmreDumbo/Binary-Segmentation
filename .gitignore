@@ -48,3 +48,5 @@ dist/
 *.xlsx
 *.pt
 *.mp4
+*.pth 
+*.csv
